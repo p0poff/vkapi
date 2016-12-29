@@ -1,0 +1,1 @@
+d = {'client_id':'', 'client_secret':'', 'redirect_uri':'', 'v':'5.60'}
